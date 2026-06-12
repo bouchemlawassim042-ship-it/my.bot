@@ -1,0 +1,6 @@
+requests
+websocket-client
+pyTelegramBotAPI
+pandas
+schedule
+httpx
